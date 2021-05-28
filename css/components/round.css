@@ -1,0 +1,27 @@
+.round {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  display: flex;
+  border-radius: 2.5px;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+  position: absolute;
+  left: 40px;
+  bottom: 20px;
+}
+
+.round__more {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  display: flex;
+  border-radius: 2.5px;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+  position: absolute;
+  left: 110px;
+  bottom: 20px;
+}

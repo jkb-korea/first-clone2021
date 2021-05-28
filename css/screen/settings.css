@@ -1,0 +1,18 @@
+body > main > ul > li {
+  padding: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  font-size: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+body > main > ul > li i {
+  opacity: 0.8;
+  margin-right: 10px;
+  font-size: 22px;
+}
+
+.settings__setting-column:last-child {
+  opacity: 0.5;
+}
